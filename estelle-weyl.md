@@ -6,7 +6,7 @@ locality: San Francisco
 region: California
 country-name: United States
 job-title: 
-organization: Instart Logic
+organization: Standardista
 url: http://www.standardista.com/
 photo-url: 
 twitter-username: @estellevw 
