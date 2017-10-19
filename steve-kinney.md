@@ -12,4 +12,4 @@ photo-url:
 twitter-username: @stevekinney 
 github-username: stevekinney
 ---
-Steve is a senior front-end engineer at SendGrid. He is also the director emeritus and the founder of the front-end engineering program at the Turing School for Software and Design in Denver, Colorado—a non-profit developer training program. Steve is currently writing Electron in Action for Manning Publications.
+Steve is a principal front-end engineer at SendGrid. He is the director emeritus and founder of the front-end engineering program at the Turing School for Software and Design in Denver, Coloradoâ€”a non-profit developer training program. Steve is currently writing Electron in Action for Manning Publications.
