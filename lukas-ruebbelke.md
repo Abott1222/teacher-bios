@@ -5,11 +5,11 @@ family-name: Ruebbelke
 locality: Phoenix
 region: Arizona 
 country-name: United States
-job-title:
-organization: Contoso
+job-title: Principal Builder / Founder
+organization: One Hungry Mind
 url: http://onehungrymind.com/
-photo-url:
+photo-url: http://onehungrymind-45fd.kxcdn.com/photos/lukas-smiling.jpg
 twitter-username: @simpulton 
 github-username: simpulton
 ---
-Lukas is a developer, hacker, community backer, author and blogger…console logger. Author of AngularJS in Action for Manning Publications.
+Lukas is a developer, hacker, community backer, author and bloggerâ€¦console logger. Lukas is a Google Developer Expert and frequent contributor to the open source community.
